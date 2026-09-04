@@ -1,0 +1,19 @@
+{
+  "note": "Catalogo di riferimento. Sostituisci con il tuo JSON reale. L'agente lo usa come fonte di verita su cosa Signify offre, e usa la ricerca web per i link/dettagli aggiornati.",
+  "families": [
+    { "brand": "Philips", "area": "Sport", "name": "ArenaVision LED", "note": "Alto livello, standard broadcast TV" },
+    { "brand": "Philips", "area": "Sport", "name": "OptiVision LED", "note": "Aree e sport ricreativo" },
+    { "brand": "Philips", "area": "Sport", "name": "ClearFlood", "note": "Retrofit aree e campi ricreativi" },
+    { "brand": "Vari-Lite", "area": "Sport", "name": "VL series", "note": "Entertainment, light show" },
+    { "brand": "Interact", "area": "Sport", "name": "Interact Sports", "note": "Gestione impianto, scheduling, light show" },
+    { "brand": "Philips", "area": "Retail", "name": "StoreSet", "note": "Su binario, ottiche OptiSuit" },
+    { "brand": "Philips", "area": "Retail", "name": "GreenSpace accent", "note": "Accento su prodotti e vetrine" },
+    { "brand": "Philips", "area": "Retail", "name": "Maxos fusion", "note": "Backbone/trunking" },
+    { "brand": "Interact", "area": "Retail", "name": "Interact Retail", "note": "Illuminazione connessa, insight" },
+    { "brand": "Philips", "area": "Uffici", "name": "PowerBalance", "note": "Ufficio premium, CRI>90" },
+    { "brand": "Philips", "area": "Uffici", "name": "CoreLine Panel", "note": "Multi-Lumen, ottimo TCO" },
+    { "brand": "Philips", "area": "Uffici", "name": "SmartBalance", "note": "Sospeso/superficie, comfort" },
+    { "brand": "Interact", "area": "Uffici", "name": "Interact Office", "note": "Reporting energetico, sensori, HVAC" },
+    { "brand": "Signify", "area": "Uffici", "name": "NatureConnect", "note": "Luce biofilica, benessere" }
+  ]
+}
